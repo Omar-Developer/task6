@@ -1,0 +1,1 @@
+I can't make ios app for this task because i don't have ios device and also ios emulator can't support bluetooth property and phonegap platform can't work on my computer  
